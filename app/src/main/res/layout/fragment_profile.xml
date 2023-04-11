@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<!--Layout은 닫을때 태그로 닫는다. 그 외 view obj는 />로 닫는다-->
+
+    <!-- Gravity가 안먹을 때, horizontal로 (뷰에) weight 1을 주겠다는 것 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="154dp"
+        android:background="@drawable/top_frame"
+        android:paddingHorizontal="20dp"
+        android:paddingTop="16dp"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_friends"
+            android:background="@android:color/transparent"
+            android:contentDescription="@null"/>
+
+    </LinearLayout>
+
+</LinearLayout>
