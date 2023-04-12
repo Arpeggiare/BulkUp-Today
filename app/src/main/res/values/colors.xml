@@ -9,4 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="primary">#AAFFE2</color>
     <color name="secondary">#F0FFFF</color>
+    <color name="text_message_color">#C0C0C0</color>
+    <color name="line_color">#D3D3D3</color>
+    <color name="schedule_layout_color">#EFF5F4</color>
+    <color name="logout_text_color">#F76A6A</color>
 </resources>
