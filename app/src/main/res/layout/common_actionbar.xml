@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="24dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/common_back_button"
+        android:src="@drawable/ic_arrow_back"
+        android:layout_gravity="center_vertical"
+        android:layout_width="32dp"
+        android:layout_height="32dp"/>
+
+    <TextView
+        android:id="@+id/common_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:text="@string/contents_title"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/common_notification_off"
+        android:layout_width="32dp"
+        android:layout_height="48dp"
+        android:src="@drawable/ic_noti"/>
+
+    <ImageView
+        android:id="@+id/common_notification_on"
+        android:visibility="gone"
+        android:layout_width="32dp"
+        android:layout_height="48dp"
+        android:src="@drawable/ic_noti_on"/>
+
+</LinearLayout>
