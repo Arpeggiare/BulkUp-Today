@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+
+      "contents_id": "1",
+      "contents_title": "효창공원 조깅 파티원 모집합니다!",
+      "contents_message": "효창공원에서 오후 7시부터 8시까지 조깅 후 같이 식사하실\\n인원을 모집합니다!!",
+      "contentns_type": "party",
+      "contents_image": ""
+    },
+    {
+      "contents_id": "2",
+      "contents_title": "상암 헬스짐 파티원 모집중.",
+      "contents_message": "상암 헬스짐 1회 무료체험 이벤트 진행중!!\\n헬린이 헬창분들을 위한 모든시설이 준비되어있습니다!",
+      "contentns_type": "party",
+      "contents_image": ""
+    },
+    {
+      "contents_id": "3",
+      "contents_title": "한강변 자전거 타실 파티원 급구",
+      "contents_message": "저녁 7시부터 잠수교에 모여서 마포대교까지 사이클 달릴 피티원을 모집합니다.",
+      "contentns_type": "party",
+      "contents_image": ""
+    },
+    {
+      "contents_id": "4",
+      "contents_title": "상암 헬스짐 파티원 모집중.",
+      "contents_message": "상암 헬스짐 1회 무료체험 이벤트 진행중!!\\n헬린이 헬창분들을 위한 모든시설이 준비되어있습니다!",
+      "contentns_type": "party",
+      "contents_image": ""
+    }
+  ]
+}
